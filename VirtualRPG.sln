@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualRPG", "VirtualRPG\VirtualRPG.csproj", "{F3C4936D-74B7-49A1-BF1D-E27BAB4CC08A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualRPG", "VirtualRPG\VirtualRPG.csproj", "{8AA85A75-6F81-4819-A806-B74DCE2CDAA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F3C4936D-74B7-49A1-BF1D-E27BAB4CC08A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F3C4936D-74B7-49A1-BF1D-E27BAB4CC08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F3C4936D-74B7-49A1-BF1D-E27BAB4CC08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F3C4936D-74B7-49A1-BF1D-E27BAB4CC08A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA85A75-6F81-4819-A806-B74DCE2CDAA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA85A75-6F81-4819-A806-B74DCE2CDAA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA85A75-6F81-4819-A806-B74DCE2CDAA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA85A75-6F81-4819-A806-B74DCE2CDAA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {53CC39E4-8643-43F9-B491-AC98A7CF6EA7}
+		SolutionGuid = {5F2F28BE-6C43-4734-99E1-0E3700226F79}
 	EndGlobalSection
 EndGlobal
